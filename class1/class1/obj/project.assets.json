@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\class1\\class1\\class1.csproj",
+      "projectUniqueName": "F:\\C#\\DevSkillAssignment\\class1\\class1\\class1.csproj",
       "projectName": "class1",
-      "projectPath": "C:\\Users\\user\\source\\repos\\class1\\class1\\class1.csproj",
+      "projectPath": "F:\\C#\\DevSkillAssignment\\class1\\class1\\class1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\class1\\class1\\obj\\",
+      "outputPath": "F:\\C#\\DevSkillAssignment\\class1\\class1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
